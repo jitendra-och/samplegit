@@ -1,6 +1,6 @@
 class HelloWorld {
     sayHi() {
-        console.log('Hello, World!');
+        console.log('Hello!');
     }
 }
 
